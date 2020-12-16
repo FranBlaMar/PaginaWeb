@@ -1,17 +1,18 @@
 # WhatATheme
 markdown: kramdown
 
+
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
-title: GamesPost
+title: GamePost
 # Description of the Site
-description: Donde los videojuegos importan
+description: 
 # URL of Image of the Site
-site-image: https://images3.alphacoders.com/964/964419.jpg
+site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon

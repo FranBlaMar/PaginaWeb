@@ -16,7 +16,8 @@ site-image: https://images3.alphacoders.com/964/964419.jpg
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
 favicon-url: 
-
+# URL de tu avatar
+avatar:https://avatars3.githubusercontent.com/u/74762951?s=400&v=4
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 

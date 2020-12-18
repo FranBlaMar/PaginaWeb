@@ -14,13 +14,13 @@ layout: page
 
 # 3-No comprarás DLCs (contenido descargable)
 
-#####Salvo que éste sea realmente valioso, como las expansiones de “The Witcher”, “GTAIV”, o “Far Cry 3”. En cualquier otro caso, adquirir material descargable, sobre todo las llamadas “micro transacciones” es pegarse un tiro en un pie como Gamer, haciendo que una odiosa parte de la industria prolifere y convierta nuestro querido hobby en una tragaperras virtual.
+##### Salvo que éste sea realmente valioso, como las expansiones de “The Witcher”, “GTAIV”, o “Far Cry 3”. En cualquier otro caso, adquirir material descargable, sobre todo las llamadas “micro transacciones” es pegarse un tiro en un pie como Gamer, haciendo que una odiosa parte de la industria prolifere y convierta nuestro querido hobby en una tragaperras virtual.
 
 # 4-No abandonarás una partida a medias
 
 ##### Eso sí que está feo, irse de la partida porque tu equipo va perdiendo es una de las cosas más rastreras y deshonestas que se pueden hacer en este mundo. Soólo abandonaremos una partida en curso por causa mayor; véase incendio, alta probabilidad de tener sexo, o acaban de anunciar “Half Life 3”.
 
-#5-Nunca, jamás, usaras “cheats”
+# 5-Nunca, jamás, usaras “cheats”
 
 ##### Si la anterior estaba fea, esta ya directamente nos mandará al infierno de los gamers (donde solo hay una PlayStation con el juego de la Barbie y nos obligan a jugar eternamente). Los cheats son para reírse en una partida privada entre amigos, como mucho. Su uso nos convierte en seres rastreros, tramposos, y que se valen de trucos para ganar a un juego que les supera…todo lo contrario a la filosofía del buen jugador
 
@@ -45,7 +45,7 @@ layout: page
 ##### Ser jugador ya no es solo un hobby, es un estilo de vida. Los videojuegos son un arte y sin duda el futuro del entretenimiento, no te dejes amedrentar por lo que la gente diga y sigue disfrutando de ser jugador sea cual sea tu sexo o tu edad, levanta bien alto la cabeza y di: -“Yo soy Gamer”
 
  
-> "Hay cosas que olvidamos... Y hay cosas que nunca podemos olvidar. Es gracioso... No se cual es más triste" (Heather en Silent Hill 3)
+> "Hay cosas que olvidamos... Y hay cosas que nunca podemos olvidar. Es gracioso. No sé cual es más triste" (Heather en Silent Hill 3)
 
 
 ![Mandalorian](https://i.ytimg.com/vi/LaiN63o_BxA/maxresdefault.jpg "Este es el camino")

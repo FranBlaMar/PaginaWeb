@@ -19,7 +19,7 @@ Para los más pequeños hay todo un abanico de juegos en Nintendo Switch que har
 Aquí tienes una lista de los mejores videojuegos de este 2020, con algunos bonus de todas las épocas (no olvidamos a los fans del arcade), títulos en oferta y algunos juegos que nunca pasan de moda. Aprovecha los descuentos de Amazon y hazte ya con tu juego ideal, para todas las consolas y plataformas: PS4 (y la nueva PS5), Xbox, Windows y Nintendo Switch.
 ASSASSIN'S CREED VALHALLA
 **Muestra del juego**<br>
-<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://media3.giphy.com/media/gKHfI7HYUswDWrY3pA/source.gif">via GIPHY</a></p>
+<iframe src="https://media3.giphy.com/media/gKHfI7HYUswDWrY3pA/source.gif" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://media3.giphy.com/media/gKHfI7HYUswDWrY3pA/source.gif">via GIPHY</a></p>
 
 **Videos ofertas nintendo**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=UMHOihisZdA" frameborder="0" allow="accelerometer; autoplay;" allowfullscreen></iframe>

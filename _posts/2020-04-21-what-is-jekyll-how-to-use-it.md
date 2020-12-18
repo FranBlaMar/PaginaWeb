@@ -1,5 +1,5 @@
 ---
-title: Pagina de prueba 
+title: Los mejores juegos de lucha de Nintendo 64
 layout: post
 post-image: "https://img.unocero.com/2019/07/rompen-record-smash-bros-64-880x495.jpg"
 description: Repaso a los mejores títulos entre los 22 juegos de lucha que salieron para la Nintendo 64
@@ -38,50 +38,50 @@ La única gran saga de lucha de entonces que si estuvo en Nintendo 64 fue la de 
 
 Como contrapartida, la versión de Nintendo 64 tiene escenarios exclusivos y es el único que cuenta con el modo de juego 3 on 3 kombat, en el que podemos combatir con equipos de tres luchadores (la misma mecánica que utiliza SNK en The King of Fighters). A pesar de estar eclipsado por las versiones de Saturn y PSOne, Mortal Kombat Trilogy es uno de los mejores juegos de lucha para Nintendo 64.
 
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+### Killer Instinct Gold (Rare, 1996)
+Si el arcade de Killer Instict fue «portado» exclusivamente para Super Nintendo dadas las buenas relaciones de Nintendo y Rare, la secuela de este título, Killer Instinct 2, recalaría de manera exclusiva para Nintendo 64 bajo el nombre de Killer Instinct Gold. Como principal diferencia con el arcade original está la eliminación de algunas escenas animadas por cuestiones de hardware.
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
+En cuanto el juego, sigue la estela del primer Killer Instinct siendo bastante continuista y aportando apenas novedades en cuanto a la mecánica del juego. Es por ello, que ni la versión de N64 ni el arcade tuvieron tanto éxito que su predecesor, que tuvo unas excelentes ventas en Super Nintendo. El modo entrenamiento, para poder descubrir los entresijos del juego, y, sobre todo, el apartado musical son los puntos fuertes de este título. 
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
-nk"}
+### Super Smash Bros. (HAL-Nintendo 1999)
+Qué decir de este juego que ha iniciado una saga que dura hasta nuestros días y cada vez va a más y que es uno de los títulos más representativo de Nintendo 64.  Y es que un juego de lucha tipo crossover juntando a los personajes de las principales sagas de Nintendo es una idea tan buena que choca el hecho de que no se lo hubiera ocurrido antes a la gran N.
+
+El gran punto fuerte de este Super Smash Bros. y el de sus secuelas es el modo de multijugador. El modo historia es una opción aceptable con una dificultad gradual y unos escenarios geniales que sirve para matar el rato, sin embargo, el verdadero disfrute está en el modo versus en el que puedes jugar contra otros tres amigos en un auténtico «battle royale»
+
 	
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+# Completan la lista
+**Los otros juegos a destacar**
+### Rakuga Kids (Konami, 1998)
+Un título bastante original basado en garabatos, de un estilo que recuerda mucho a PaRappa the Rapper, al cual más pintoresco que luchan entre sí. Gráficamente es un juego que con el tiempo ha envejecido mal pero su colorido y su corte infantil pero desenfadado lo convierten en un juego bastante divertido.
 
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+Por lo demás, el juego no resulta muy profundo quedándose en un título para los más pequeños pero con detalles gamberros, que cuenta con siete personajes (nueve si contamos los dos jefes finales) y que usa el sistema de seis botones que patentó Street Fighter II: The World Warrior. 
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
+###Mortal Kombat 4 (Midway, 1997)
+Gracias a las pruebas experimentales que hizo Midway con War Gods, la cuarta entrega de Mortal Kombat tuvo un acabado técnico bastante bueno: gráficos notables y bien diseñados, escenarios interactivos, velocidad de fotogramas constantemente alta (algo inusual para la época) y voces digitalizadas a la perfección y un sonido depurado que tiene como único hándicap que es en mono en lugar de en estéreo. 
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
+Lo único que falla en este Mortal Kombat 4 es su jugabilidad dado a la presencia de molestos «bugs» y que no aportaba ninguna novedad con respecto a títulos anteriores. El único detalle positivo en ese aspecto es, a diferencia de la versión arcade, es que podemos controlar a Goro, uno de los villanos por excelencia. A pesar de todo, se trata de uno de los mejores juegos de lucha de Nintendo 64. 
 
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
+### ClayFighter 63 ⅓ (Interplay, 1997) // ClayFighter: Scultor’s Cut (Interplay 1998)
+El salto a los 64 bits de la saga ClayFighter, que tan buenos y divertidos momentos dejó en la Super Nintendo con ClayFighter y ClayFighter 2: Judgement Clay, fue con ClayFighter 63 ⅓. Como sus antecesores, este título utiliza el método stop-motion mediante plastilina para animar a los personajes lo que da un efecto visual original y único.
 
-Again, `my-site` is just a random name which is customizable.
+Con una jugabilidad aceptable, ClayFighter 63 ⅓ (llamado así para mofarse de la etiqueta 64 que tenían algunos juegos de la Nintendo 64) realiza guiños a la saga Street Fighter Alpha, al contar con tres barras de energía para ejecutar los combos, y a Mortal Kombat con sus «claytalities». Como punto anecdótico, entre los doce personajes disponibles están, nada más y nada menos, que Earthworm Jim y Boogerman (ambos con la voz de Dan Castellaneta doblador de Homer Simpson en la versión original). En 1998, salió en Norteamérica una nueva versión de este juego bajo el nombre ClayFighter: Scultor’s Cut con cuatro nuevos personajes.
 
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
+###Mace: The Dark Age (Atari-Midway, 1997)
+Un juego de lucha en 3D desarrollado por Atari que tuvo buena acogida en los salones recreativos de Estados Unidos y que sería «portado» por Midway a Nintendo 64. Con ambientación medieval y unos gráficos aceptables para la época, Mace: The Dark Age es un título cuyos desarrolladores cogieron lo que funcionaban en otros juegos de la época como Dead or Alive e idearon un juego para cumplir el expediente, algo que hace sin problemas.
 
-### Browsing your Jekyll site
-> # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+Uno de los puntos fuertes de este juego son la diversidad de los personajes, con elementos diferenciadores que hace a cada luchador único, así como las «executions», un calco de los «fatalities» de Mortal Kombat, que van desde las decapitaciones hasta el hecho de convertir en una gallina al contricante.
 
-###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
+### War Gods (Midway-Eurocom, 1996)
+Midway necesitaba hacer probaturas con un motor de juego en 3D para lanzar el que iba a ser su primer Mortal Kombat en gráficos poligonales, Mortal Kombat 4, y este borrador decidió convertirlo en el juego War Gods con el fin de hacer caja. El resultado fue una mezcolanza de dioses y seres mitológicos como Anubis, una valquiria, una bruja pagana o un sacerdote azteca con luchadores menos mágicos como un gladiador, un samurái, un cyborg o un soldado estadounidense radiactivo.
+
+La empresa británica Eurocom desarrolló la versión doméstica de este juego para Playstation One, Nintendo 64 y PC, y éstas tuvieron el mismo éxito que el arcade: nulo. Las claves de este fracaso se debe a unos escenarios horrorosos, una dificultad pobre y que se notaba de lejos que era un Mortal Kombat «de Serie B». 
+
+### Bio F.R.E.A.K.S. (Midway, 1998)
+Otro título con el sello característico de Midway: la violencia. Bio F.R.E.A.K.S. es un juego de corte futurista cuyos luchadores son o bien cyborgs o bien seres con extremidades biónicas que pueden ser amputadas. 
+
+Por lo demás se trata de un juego muy correcto y balanceado con un aprobado en todas las facetas: jugabilidad, gráficos, sonido y estética. También salió para PlayStation One con un acabado gráfico inferior al desplegado en la versión para Nintendo 64.
+
+###Fighters Destiny (Genki, 1998)
+Una de las opciones más interesantes dentro de los juegos de lucha de Nintendo 64 por su sistema de juego. A diferencia de la gran mayoría de juegos, Fighters Destiny no se apoya en el medidor de salud de cada contrincante sino de un sistema de puntos similar al que se usa en los campeonatos oficiales de artes marciales, circunstancia que gustó mucho a la crítica de la época.
+
+Fighters Destiny cuenta con personajes sumamente originales como el  guerrero español León, el payaso francés Pierre o Ushi, una vaca luchadora de Hokkaido. Los gráficos no son nada del otro mundo con la pega que los escenarios están poco cuidados y en ellos abundan el «efecto niebla» (por ejemplo en el escenario de León sale en segundo plano un acueducto romano, se supone que el de Segovia, y el resto del fondo está difuminado). Al año siguiente de su lanzamiento, Genki sacó al mercado una secuela con nuevos personajes y con mejoras gráficas y de dinamismo (tras un aumento a 60 frames por segundo). 

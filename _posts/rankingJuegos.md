@@ -10,7 +10,7 @@ tags:
 ---
 
 # Ranking juegos 2020
-Veremos los juegos mejor valorados de todo el 2020. El orden de aparicion de los juegos no determina la calidad de ellos.
+Veremos los 10 juegos mejor valorados de todo el 2020. El orden de aparicion de los juegos no determina la calidad de ninguno, simplemente presentamos los 10 mejores.
 Comencemos:
 
 ---

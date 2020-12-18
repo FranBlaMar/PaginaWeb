@@ -58,7 +58,7 @@ Por lo demás, el juego no resulta muy profundo quedándose en un título para l
 
 ![Rakuga Kids](https://3.bp.blogspot.com/-EXJQqbb85XA/TjQB-3v37QI/AAAAAAAAXnU/a1Doi9Y_Q7I/s1600/rakuga-1.jpg "Rakuga Kids un juego original donde los haya")
 
-###Mortal Kombat 4 (Midway, 1997)
+### Mortal Kombat 4 (Midway, 1997)
 Gracias a las pruebas experimentales que hizo Midway con War Gods, la cuarta entrega de Mortal Kombat tuvo un acabado técnico bastante bueno: gráficos notables y bien diseñados, escenarios interactivos, velocidad de fotogramas constantemente alta (algo inusual para la época) y voces digitalizadas a la perfección y un sonido depurado que tiene como único hándicap que es en mono en lugar de en estéreo. 
 
 Lo único que falla en este Mortal Kombat 4 es su jugabilidad dado a la presencia de molestos «bugs» y que no aportaba ninguna novedad con respecto a títulos anteriores. El único detalle positivo en ese aspecto es, a diferencia de la versión arcade, es que podemos controlar a Goro, uno de los villanos por excelencia. A pesar de todo, se trata de uno de los mejores juegos de lucha de Nintendo 64. 

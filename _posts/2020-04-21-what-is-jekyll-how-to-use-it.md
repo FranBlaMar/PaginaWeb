@@ -28,8 +28,8 @@ Todo ello conllevó que Nintendo apenas pudiera contar con juegos de lucha en su
 
 ¿Y de esos 22 títulos cuáles son los que más fielmente trasladaron los combates versus y los mamporros a los 64 bits de la gran N?
 
-> ### Entre los 22 juegos de lucha que sacaron para la Nintendo 64 vamos a destacar diez títulos
-###### Fuente : [`La Guarida del Héroe](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiSnOjrp9ftAhXzQEEAHU_gD7YQFjADegQIARAC&url=https%3A%2F%2Fwww.laguaridadelheroe.com%2Flos-22-juegos-de-lucha-de-nintendo-64-i%2F&usg=AOvVaw3VoyvCCIBWXTukNSiK9kvt)
+> ### Sólo 22 juegos de lucha se sacaron para la Nintendo 64
+###### Fuente : [Break](https://www.breakrevista.com/los-22-juegos-de-lucha-de-nintendo-64-i/)
 	
 # TOP 3
 **El podio de los juegos**
@@ -55,6 +55,8 @@ El gran punto fuerte de este Super Smash Bros. y el de sus secuelas es el modo d
 Un título bastante original basado en garabatos, de un estilo que recuerda mucho a PaRappa the Rapper, al cual más pintoresco que luchan entre sí. Gráficamente es un juego que con el tiempo ha envejecido mal pero su colorido y su corte infantil pero desenfadado lo convierten en un juego bastante divertido.
 
 Por lo demás, el juego no resulta muy profundo quedándose en un título para los más pequeños pero con detalles gamberros, que cuenta con siete personajes (nueve si contamos los dos jefes finales) y que usa el sistema de seis botones que patentó Street Fighter II: The World Warrior. 
+
+![Rakuga Kids](https://3.bp.blogspot.com/-EXJQqbb85XA/TjQB-3v37QI/AAAAAAAAXnU/a1Doi9Y_Q7I/s1600/rakuga-1.jpg "Rakuga Kids un juego original donde los haya")
 
 ###Mortal Kombat 4 (Midway, 1997)
 Gracias a las pruebas experimentales que hizo Midway con War Gods, la cuarta entrega de Mortal Kombat tuvo un acabado técnico bastante bueno: gráficos notables y bien diseñados, escenarios interactivos, velocidad de fotogramas constantemente alta (algo inusual para la época) y voces digitalizadas a la perfección y un sonido depurado que tiene como único hándicap que es en mono en lugar de en estéreo. 

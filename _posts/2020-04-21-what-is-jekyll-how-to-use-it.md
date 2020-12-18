@@ -14,6 +14,7 @@ Bien entrada la década de los 90, la siempre innovadora Sega con sus juegos arc
 Tanto es así que cuando Nintendo sacó su respectiva consola para esta generación lo hizo para superar a la competencia que ya había mostrado sus cartas. Así, la gran N lanzó no una consola de 32 bits como la Saturn o la PlayStation One, sino una consola de 64 bits con una arquitectura interna que tenía herramientas específicas para tratamientos de gráficos en tres dimensiones, circunstancia que le permitía tener escenarios más limpios y sólidos y con aspecto menos tosco y pixelado que sus competidoras. 
 
 El único hándicap que tenía la Nintendo 64 es que sólo podía mover 100.000 polígonos por segundo, la mitad que sus rivales, lo que hacía que la estética fuese demasiado poligonal y tuviera que recurrir al llamado ‘efecto niebla’ (difuminado del fondo para mejorar los detalles de los elementos más cercanos), pero eso es otra historia. 
+
 Ante una consola tan predispuesta a los gráficos poligonales, se orientó exclusivamente a los juegos en tres dimensiones, con prácticamente el cien por cien de su catálogo de juegos, dejando de lado uno de los géneros más destacados del sector: el de la lucha en dos dimensiones. 
 
 En Japón, los salones arcade congregaban, y siguen congregando, a un enorme número de «jugones» que gastaban sus yenes principalmente en la multitud de juegos de lucha que desarrollaban Capcom y SNK, títulos que no tuvieron adaptaciones domésticas en la Nintendo 64, circunstancia que si se dio en la Saturn y en PSOne. Esta situación supuso que en tierras niponas la Nintendo 64 vendiera muy poco y fuese incluso superada en esa faceta por la Saturn.
@@ -68,7 +69,7 @@ El salto a los 64 bits de la saga ClayFighter, que tan buenos y divertidos momen
 
 Con una jugabilidad aceptable, ClayFighter 63 ⅓ (llamado así para mofarse de la etiqueta 64 que tenían algunos juegos de la Nintendo 64) realiza guiños a la saga Street Fighter Alpha, al contar con tres barras de energía para ejecutar los combos, y a Mortal Kombat con sus «claytalities». Como punto anecdótico, entre los doce personajes disponibles están, nada más y nada menos, que Earthworm Jim y Boogerman (ambos con la voz de Dan Castellaneta doblador de Homer Simpson en la versión original). En 1998, salió en Norteamérica una nueva versión de este juego bajo el nombre ClayFighter: Scultor’s Cut con cuatro nuevos personajes.
 
-###Mace: The Dark Age (Atari-Midway, 1997)
+### Mace: The Dark Age (Atari-Midway, 1997)
 Un juego de lucha en 3D desarrollado por Atari que tuvo buena acogida en los salones recreativos de Estados Unidos y que sería «portado» por Midway a Nintendo 64. Con ambientación medieval y unos gráficos aceptables para la época, Mace: The Dark Age es un título cuyos desarrolladores cogieron lo que funcionaban en otros juegos de la época como Dead or Alive e idearon un juego para cumplir el expediente, algo que hace sin problemas.
 
 Uno de los puntos fuertes de este juego son la diversidad de los personajes, con elementos diferenciadores que hace a cada luchador único, así como las «executions», un calco de los «fatalities» de Mortal Kombat, que van desde las decapitaciones hasta el hecho de convertir en una gallina al contricante.
@@ -83,7 +84,7 @@ Otro título con el sello característico de Midway: la violencia. Bio F.R.E.A.K
 
 Por lo demás se trata de un juego muy correcto y balanceado con un aprobado en todas las facetas: jugabilidad, gráficos, sonido y estética. También salió para PlayStation One con un acabado gráfico inferior al desplegado en la versión para Nintendo 64.
 
-###Fighters Destiny (Genki, 1998)
+### Fighters Destiny (Genki, 1998)
 Una de las opciones más interesantes dentro de los juegos de lucha de Nintendo 64 por su sistema de juego. A diferencia de la gran mayoría de juegos, Fighters Destiny no se apoya en el medidor de salud de cada contrincante sino de un sistema de puntos similar al que se usa en los campeonatos oficiales de artes marciales, circunstancia que gustó mucho a la crítica de la época.
 
 Fighters Destiny cuenta con personajes sumamente originales como el  guerrero español León, el payaso francés Pierre o Ushi, una vaca luchadora de Hokkaido. Los gráficos no son nada del otro mundo con la pega que los escenarios están poco cuidados y en ellos abundan el «efecto niebla» (por ejemplo en el escenario de León sale en segundo plano un acueducto romano, se supone que el de Segovia, y el resto del fondo está difuminado). Al año siguiente de su lanzamiento, Genki sacó al mercado una secuela con nuevos personajes y con mejoras gráficas y de dinamismo (tras un aumento a 60 frames por segundo). 
